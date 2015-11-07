@@ -66,4 +66,6 @@ github，大家都把自己的作品放在上面給大家看
 1. [codecademy](https://www.codecademy.com/)
 2. [codes school](https://www.codeschool.com/)
 3. [tut+](http://tutsplus.com/)
-4. 
+1. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+2. [高雄前端社群 -前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit?pli=1)
+3. [學習html與css](http://marksheet.io/)
