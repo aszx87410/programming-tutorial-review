@@ -12,8 +12,13 @@
 他說他有用過[codecademy](https://www.codecademy.com/)，我也推薦這個網站與其他的教學網站，接著帶他看了一遍這上面的課程，稍微解釋每一個類別是什麼：
 
 1. html, css, javascript  
-這些都是拿來寫網頁的（我們先忽略javascript與node.js，避免一次吸收太多會混亂），html就是網站的「內容、骨架」，css就是網頁的「外觀、衣服」，所以一個網站的美觀與否通常都是由css決定的，
-2. jQuery
+這些都是拿來寫網頁的（我們先忽略javascript與node.js，避免一次吸收太多會混亂），html就是網站的「內容、骨架」，css就是網頁的「外觀、衣服」，所以一個網站的美觀與否通常都是由css決定的，只要換css就可以幫網頁換一件衣服，會有不同的風格。
+
+javascript是在網頁上面寫程式碼，例如說你要跳一個視窗、做一個跑馬燈效果，就是javascript
+
+2. jQuery  
+一個js的`library`，函式庫，就是假如你原本用js寫要十行的程式碼，jQuery幫你包裝好以後，現在只樣兩行就能達成同樣功能。
+
 3. php
 4. python, ruby
 5. API
