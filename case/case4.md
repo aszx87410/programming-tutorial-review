@@ -11,7 +11,18 @@
 ### 自學coding如何開始？該如何找資源？
 他說他有用過[codecademy](https://www.codecademy.com/)，我也推薦這個網站與其他的教學網站，接著帶他看了一遍這上面的課程，稍微解釋每一個類別是什麼：
 
-1. 
+1. html, css, javascript  
+這些都是拿來寫網頁的（我們先忽略javascript與node.js，避免一次吸收太多會混亂），html就是網站的「內容、骨架」，css就是網頁的「外觀、衣服」，
+2. jQuery
+3. php
+4. python, ruby
+5. API
+6. rails
+7. angular
+8. command line
+9. sql
+10. java
+11. git
 
 ### 學習程式的順序？先從JS開始合適嗎?
 ### 如果想要有自己的作品，該使用哪個平臺？
