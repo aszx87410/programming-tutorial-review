@@ -30,9 +30,14 @@ javascript是在網頁上面寫程式碼，例如說你要跳一個視窗、做�
 
 6. API
 
-7. angular
-8. command line
-9. sql
+7. angular  
+js的framework，跟前端有關的。這邊我簡單帶過而已。
+
+8. command line  
+在 windows 底下叫做「命令提示字元」，mac 底下叫做「終端機」，可以用指令完成許多操作，例如說簡單的讀寫檔案、新建資料夾都可以，工程師必備的技能之一。
+
+9. sql  
+這跟資料庫有關，有後端的網站一定需要資料庫來儲存資料，那要怎麼查詢裡面的資料呢？這個時候就有一套已經規定好的語法格式，會有一些指令可以使用，例如說「我要帳號是aaa的會員的姓名、信箱」，翻成指令可能就是`select name, email from members where username='aaa'`
 10. java
 11. git
 
