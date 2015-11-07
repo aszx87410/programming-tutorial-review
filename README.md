@@ -1,6 +1,6 @@
 # 台北免費程式教學心得分享
 
-[gitbook連結](https://aszx87410.gitbooks.io/programming-tutorial-review/content/)  
+[gitbook - 台北免費程式教學心得分享](https://aszx87410.gitbooks.io/programming-tutorial-review/content/)  
 
 可以先看我po在ptt的 [[情報] 免費程式入門教學(台北)](https://www.ptt.cc/bbs/Soft_Job/M.1445780425.A.9C6.html)  
 大意就是，我願意在台北提供幾乎免費（請一頓晚餐就好）的程式入門教學  
