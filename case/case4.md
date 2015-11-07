@@ -64,5 +64,6 @@ github，大家都把自己的作品放在上面給大家看
 
 ## 相關資源
 1. [codecademy](https://www.codecademy.com/)
-2. [codes chool](https://www.codeschool.com/)
-3. 
+2. [codes school](https://www.codeschool.com/)
+3. [tut+](http://tutsplus.com/)
+4. 
