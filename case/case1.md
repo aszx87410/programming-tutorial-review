@@ -31,3 +31,6 @@ Single Page Application
 
 回家之後我自己砍站改code，發現是因為程式中有一段要抓取display:none元素的高度，但是在某些情況下抓不到，我猜測是因為這個的緣故（不過好像也不太像），總之最後改成 visibility: hidden來實作就解決這個問題。
 
+## 相關資源
+
+
