@@ -59,3 +59,7 @@
 
 
 ## 相關資源
+1. [C - Function Pointer](http://godleon.blogspot.tw/2008/01/c-function-pointer-function-pointer.html)
+2. [Function Pointer：(指向函數的指標)](http://computer-learning-note.blogspot.tw/2013/08/pointer-to-functionaka-function-pointer.html)
+3. [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
+4. 
