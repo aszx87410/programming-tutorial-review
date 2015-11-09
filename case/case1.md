@@ -25,11 +25,6 @@ sass/scss/less的差異以及起源
 Single Page Application
 我有稍微講了一下backbone, angular, ember這三套都是在做差不多的事情，就是把前端的網頁變成跟一個桌面軟體、一個app差不多，所以前端也會有mvc，前端也會有router要去管理
 
-### debug實戰
-他拿出一段公司的code，說是有一個地方有些bug，於是就稍微看了一下
-花了一點時間發現應該是有其他檔案也有改到東西，時間也差不多，就先到此結束。
-
-回家之後我自己砍站改code，發現是因為程式中有一段要抓取display:none元素的高度，但是在某些情況下抓不到，我猜測是因為這個的緣故（不過好像也不太像），總之最後改成 visibility: hidden來實作就解決這個問題。
 
 ## 相關資源
 1. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
