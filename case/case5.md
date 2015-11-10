@@ -132,5 +132,6 @@ github是一個放git repo的平台。但不只程式碼，其實你想放什麼
 1. [codeschool](https://www.codeschool.com/)
 2. [codecademy](https://www.codecademy.com/)
 3. [台大新創企業媒合](http://ntuea.ntu.edu.tw/wearesomatch/)
+4. [連猴子都能懂的git入門指南](https://backlogtool.com/git-guide/tw/)
 
 
