@@ -121,6 +121,10 @@ select id from users where username = ''or 1=1--' and password = 'a123'
 
 ### git是什麼？
 
+
 ## 相關資源
+1. [codeschool](https://www.codeschool.com/)
+2. [codecademy](https://www.codecademy.com/)
+3. [台大新創企業媒合](http://ntuea.ntu.edu.tw/wearesomatch/)
 
 
