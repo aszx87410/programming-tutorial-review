@@ -11,7 +11,6 @@
 <?
  $username = "peter";
  echo "你好，".$username
-
 ?>
 ```
 
