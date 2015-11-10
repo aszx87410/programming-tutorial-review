@@ -99,8 +99,23 @@ session可以儲存一些資訊，每次在發送request的時候就會帶著這
 ### 簡單資訊安全觀念講解
 第一個講到的是SQL injection，因為它的書上的教學所用的sql語法是用字串串接的方式，所以有可能會有一些資安上的疑慮，比方說你的程式碼原本是這樣：
 ```php
+//輸入帳號：peter
+//密碼：a123
+
+$sql = 
+ "select id from users where username = '" + $user + "' and password = '" + $pwd + "'";
+ 
+//會變成
+select id from users where username = 'peter' and password = 'a123'
+```
+
+那如果有人輸入一段很奇怪的帳號：`' or 1=1--`
+```sql
+select id from users where username = ''or 1=1--' and password = 'a123'
 
 ```
+
+
 
 
 ### git是什麼？
