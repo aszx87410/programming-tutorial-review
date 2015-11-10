@@ -91,8 +91,10 @@ if($stmt->fetch()){
 }
 $stmt->close();
 ```
-
 ### session的觀念
+由於`http`的連線是沒有狀態的，所以server要怎麼知道現在的request跟上一個request是同一個人？或是說，在你登入之後，server要怎麼知道你已經登入了？這個時候就要靠session這個東西。
+
+
 
 ### 簡單資訊安全觀念講解
 
