@@ -119,9 +119,6 @@ select id from users where username = ''or 1=1--' and password = 'a123'
 
 所以在php請愛用`mysqli`系列指令或是其他安全的作法。
 
-
-
-
 ### git是什麼？
 
 ## 相關資源
