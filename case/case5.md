@@ -18,6 +18,8 @@
 其實與c#大同小異，最大差別在於「型態」  
 ps. 這邊發現我當時有點小講錯，可參考[Static Typing, Dynamic Typing, Strong Typing, Weak Typing](http://swaywang.blogspot.tw/2013/04/static-typing-static-typetype.html)
 
+c#屬於靜態型別的語言，你在宣告變數的時候需要指定型態；而php屬於動態型別
+
 ### php函式、陣列
 
 ### 如何與資料庫連結？
