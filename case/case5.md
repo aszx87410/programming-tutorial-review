@@ -112,8 +112,10 @@ select id from users where username = 'peter' and password = 'a123'
 那如果有人輸入一段很奇怪的帳號：`' or 1=1--`
 ```sql
 select id from users where username = ''or 1=1--' and password = 'a123'
-
 ```
+
+由於`--`是註解的意思，所以後面的語法會被忽略
+`or 1=1`永遠成立，所以這個敘述永遠都會查到東西，也就是永遠都可以登入成功！
 
 
 
