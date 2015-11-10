@@ -21,7 +21,7 @@ c#屬於`靜態型別`的語言，你在宣告變數的時候需要指定型態�
 
 要特別小心的是在做整數跟字串相加的時候有可能會出現問題。php屬於`弱型別`，所以會自動做型別轉換。
 
-ps. 這邊發現我當時有點小講錯，可參考[Static Typing, Dynamic Typing, Strong Typing, Weak Typing](http://swaywang.blogspot.tw/2013/04/static-typing-static-typetype.html)
+ps. 這邊發現我當時有點小講錯，把靜態動態與強弱弄混了，可參考[Static Typing, Dynamic Typing, Strong Typing, Weak Typing](http://swaywang.blogspot.tw/2013/04/static-typing-static-typetype.html)
 
 ### php函式、陣列
 
