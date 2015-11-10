@@ -15,8 +15,8 @@
 ```
 
 ### php流程控制、迴圈
-其實與c#大同小異，最大差別在於「型態」
-ps. 這邊發現我當時有點小講錯，可參考[](http://swaywang.blogspot.tw/2013/04/static-typing-static-typetype.html)
+其實與c#大同小異，最大差別在於「型態」  
+ps. 這邊發現我當時有點小講錯，可參考[Static Typing, Dynamic Typing, Strong Typing, Weak Typing](http://swaywang.blogspot.tw/2013/04/static-typing-static-typetype.html)
 
 ### php函式、陣列
 
