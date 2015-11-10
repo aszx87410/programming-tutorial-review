@@ -8,6 +8,6 @@
    * [2. 政大商科自由譯者](case/case2.md)
    * [3. 四大工科大二學生](case/case3.md)
    * [4. 財務會計](case/case4.md)
-   * 5. 資管碩畢
+   * [5. 資管碩畢](case/case5.md)
 * [心得分享](sharing.md)
 
