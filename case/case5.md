@@ -56,7 +56,40 @@ $arr["hello"] = "world";
 4. 你在php裡面對這些結果做事情
 
 ```php
+//資料庫位置
+$db_server = "localhost";
 
+//資料庫名稱
+$db_name = "course";
+
+//資料庫管理者帳號
+$db_user = "username";
+
+//資料庫管理者密碼
+$db_passwd = "password";
+$mysqli = new mysqli($db_server, $db_user, $db_passwd,$db_name);
+
+//對資料庫連線
+if(!$mysqli){
+	die("Connection error: " . mysqli_connect_errno());
+}else{
+	$mysqli->select_db($db_name);
+	$mysqli->set_charset("utf8");
+}
+
+//下指令
+$sql="select id from users where username=? and password=?";
+$stmt = $mysqli->prepare($sql);
+$stmt->bind_param("ss",$username,$password);
+$stmt->execute();
+$stmt->bind_result($id);
+if($stmt->fetch()){
+	// 有資料
+	
+}else{
+	//沒資料	
+}
+$stmt->close();
 ```
 
 ### session的觀念
