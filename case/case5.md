@@ -120,7 +120,7 @@ select id from users where username = ''or 1=1--' and password = 'a123'
 所以在php請愛用`mysqli`系列指令或是其他安全的作法。
 
 ### git是什麼？
-git是一個版本控制的程式，假如說我今天有個
+git是一個版本控制的程式，假如說我今天有個專案要加一個新功能，
 
 
 ## 相關資源
