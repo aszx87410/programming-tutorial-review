@@ -28,7 +28,19 @@ html就是一個網頁的結構、內容，css就是外觀、裝飾
 其實html就是用許多標籤來表示出有結構的內容，若是覺得html不太直覺，可以先參考以下例子：
 
 ``` html
-
+<users>
+  <user>
+    <name>peter</name>
+    <email>peter@gmail.com</email>
+    <phone>1234</phone>
+  </user>
+  
+  <user>
+    <name>nick</name>
+    <email>nick@qq.com</email>
+    <phone>2222</phone>
+  </user>
+</users>
 ```
 
 
