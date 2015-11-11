@@ -88,7 +88,8 @@ css的話就是對元素裝扮，弄成自己想要的樣子
 
 ## 資源整理
  
-[javascript教學簡報](https://drive.google.com/folderview?id=0B-a_eyF__oG6b2owS2ltQ21pX2M&usp=drive_web)
-
-
-[Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+1. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+2. [高雄前端社群 -前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit?pli=1)
+3. [學習html與css](http://marksheet.io/)
+4. [javascript教學簡報](https://drive.google.com/folderview?id=0B-a_eyF__oG6b2owS2ltQ21pX2M&usp=drive_web)
+5. [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
