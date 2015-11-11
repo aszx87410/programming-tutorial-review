@@ -52,7 +52,13 @@ css的話就是對元素裝扮，弄成自己想要的樣子
 那要怎麼知道對哪一個元素？就是靠我們的`選擇器`
 
 ``` css
+#intro{
+  color: red;
+}
 
+.block{
+  color: yellow;
+}
 ```
 
 
