@@ -11,7 +11,17 @@
 開啟的話，把檔案丟到瀏覽器上面就可以開了
 
 ### html, css基本教學
+html就是一個網頁的結構、內容，css就是外觀、裝飾
 
+``` html
+<html>
+  <head>
+  </head>
+  
+  <body>
+  </body>
+</html>
+```
 
 
 
