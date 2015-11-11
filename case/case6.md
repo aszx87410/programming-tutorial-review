@@ -86,13 +86,8 @@ css的話就是對元素裝扮，弄成自己想要的樣子
 公司環境也是滿重要的一點，選一個自己覺得舒適的辦公室也是很重要的事
 
 
-
-
-
-
 ## 資源整理
-網頁的資源之前都給過了，可參考case1的前端工程師  
-這邊多給一個我朋友做的javascript教學  
+ 
 [javascript教學簡報](https://drive.google.com/folderview?id=0B-a_eyF__oG6b2owS2ltQ21pX2M&usp=drive_web)
 
 
