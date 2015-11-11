@@ -9,5 +9,6 @@
    * [四大工科大二學生](case/case3.md)
    * [財務會計](case/case4.md)
    * [資管碩畢](case/case5.md)
+   * [政大俄文畢業](case/case6.md)
 * [心得分享](sharing.md)
 
