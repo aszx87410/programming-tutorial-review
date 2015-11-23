@@ -5,6 +5,9 @@
 
 ## 疑問
 
+### exports與module.exports的區別
+
+
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
 2. [node入門](http://www.nodebeginner.org/index-zh-tw.html)
