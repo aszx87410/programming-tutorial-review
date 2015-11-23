@@ -16,9 +16,26 @@ var b = a;
 console.log(a); // peter
 console.log(b); // peter
 
+b.name = 'nick';
+console.log(a); // nick
+console.log(b); // nick
+/*
+b = a 這行是說「b存的內容是a所指向的記憶體位置」
+所以當b的值變了以後，a也會跟著變
+因為他們是同一塊記憶體位置
+*/
 
+b = {name: "good"};
+console.log(a); //nick
+console.log(b); //good
 
+/*
+現在把b指到一塊新的記憶體去，所以b改變了
+a依然維持原樣
+*/
 ```
+
+
 
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
