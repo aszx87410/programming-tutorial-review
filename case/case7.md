@@ -68,6 +68,8 @@ exports = {
 ```
 上面這例子就像一開始那個`b = {name: "good"}`一樣，你會把`exports`重新分配一塊記憶體並且指向，而原本的`module.exports`依然是`{}`，所以不會導出任何東西。
 
+###
+
 
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
