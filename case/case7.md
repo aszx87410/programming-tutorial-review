@@ -116,6 +116,10 @@ async function getData(){
 ### 其他framework
 介紹了一下nodejs除了`express`以外還有`sails.js`，那這套其實就跟`rails`很像，就像是php有`laravel`一樣，這三套其實我覺得概念都滿相同的。
 
+### React and React Native
+就大概提一下React的基本概念，很多小元件組成一個大元件  
+React Native可以用React的概念來寫native的mobile app  
+有興趣可以自己參考一些資料
 
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
