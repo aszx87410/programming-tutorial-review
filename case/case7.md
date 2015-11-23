@@ -6,6 +6,8 @@
 ## 疑問
 
 ### exports與module.exports的區別
+可以參考這篇：[exports 和 module.exports 的区别](https://cnodejs.org/topic/5231a630101e574521e45ef8)
+
 
 
 ## 資源整理
