@@ -69,6 +69,9 @@ exports = {
 上面這例子就像一開始那個`b = {name: "good"}`一樣，你會把`exports`重新分配一塊記憶體並且指向，而原本的`module.exports`依然是`{}`，所以不會導出任何東西。
 
 ### express基本操作
+我覺得沒什麼比看code更能快速了解一個架構，所以直接帶著看[ntucourse.info](https://github.com/ntu-infoplat/ntucourse.info)這個project，基本上就是分成：`views`, `models`, `service`, `routes`這幾塊。
+
+### 其他framework
 
 
 
