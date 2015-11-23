@@ -43,6 +43,32 @@ exports = module.exports;
 
 其實這就跟上面的`a`跟`b`的例子是一樣的，也就是說，`exports`是指向`module.exports`，但要注意的是，實際上導出的是`module.exports`
 
+所以你可以
+``` javascript
+
+//方法1
+exports.name = "nick";
+
+//方法2
+module.exports.name = "nick";
+
+//這兩個方法其實是一樣的
+
+//或是你可以
+module.exports = {
+  name: "nick"
+}
+```
+
+但是你不可以
+``` javascript
+exports = {
+  name: "nick"
+}
+```
+上面這例子就像一開始那個`b = {name: "good"}`一樣，你會把`exports`重新分配一塊記憶體並且指向，而原本的`module.exports`依然是`{}`，所以不會導出任何東西。
+
+
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
 2. [node入門](http://www.nodebeginner.org/index-zh-tw.html)
