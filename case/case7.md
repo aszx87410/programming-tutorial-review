@@ -35,7 +35,13 @@ a依然維持原樣
 */
 ```
 
+那其實上面提到的那些，你可以看成這樣
+``` javascript
+module.exports = {};
+exports = module.exports;
+```
 
+其實這就跟上面的`a`跟`b`的例子是一樣的，也就是說，`exports`是指向`module.exports`，但要注意的是，實際上導出的是`module.exports`
 
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
