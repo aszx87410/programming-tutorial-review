@@ -71,8 +71,34 @@ exports = {
 ### express基本操作
 我覺得沒什麼比看code更能快速了解一個架構，所以直接帶著看[ntucourse.info](https://github.com/ntu-infoplat/ntucourse.info)這個project，基本上就是分成：`views`, `models`, `service`, `routes`這幾塊。
 
-### 其他framework
+### Promise
+以往在javascript裡面進行非同步操作的時候可能會碰到幾個問題，例如說`callback hell`
 
+``` javascript
+getUser(function(users){
+  getFriend(users[0].id, function(friend){
+    getPost(friend.id, function(post){
+      console.log(post);
+    })
+  })
+})
+```
+
+那自從我們有了`Promise`以後，可以變這樣
+``` javascript
+getUser().then(function(users){
+  return getFriend(users[0].id);
+}).then(function(friend){
+  return getPost(friend.id);
+}).then(function(post){
+  console.log(post)
+});
+```
+
+
+
+### 其他framework
+介紹了一下nodejs除了`express`以外還有`sails.js`，那這套其實就跟`rails`很像，就像是php有`laravel`一樣，這三套其實我覺得概念都滿相同的。
 
 
 ## 資源整理
