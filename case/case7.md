@@ -95,6 +95,21 @@ getUser().then(function(users){
 });
 ```
 
+就把原本的層層結構壓平了，你只要一直`.then`就好  
+但事實上這樣子的寫法依舊有些問題，而且也不是很好看
+於是到了`es7`，目前有一項功能叫做`async/await`
+
+```javascript
+async function getData(){
+  var users = await getUser();
+  var friend = await getFriend(users[0].id);
+  var post = await getPost(friend.id);
+  console.log(post);
+}
+```
+
+是不是很棒！  
+根本就是當做同步的程式碼來寫，只是前面多了一個`await`而已
 
 
 ### 其他framework
