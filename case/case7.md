@@ -8,7 +8,17 @@
 ### exports與module.exports的區別
 可以參考這篇：[exports 和 module.exports 的区别](https://cnodejs.org/topic/5231a630101e574521e45ef8)
 
+我這邊快速講一下，先看下面這個例子
+``` javascript
+var a = {name: "peter"};
+var b = a;
 
+console.log(a); // peter
+console.log(b); // peter
+
+
+
+```
 
 ## 資源整理
 1. [nodejs包教不包會](https://github.com/alsotang/node-lessons)
