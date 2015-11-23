@@ -111,7 +111,7 @@ async function getData(){
 是不是很棒！  
 根本就是當做同步的程式碼來寫，只是前面多了一個`await`而已  
 可以這樣寫其實是因為ES6多一個東西叫做`generator`  
-想知道更多可以參考我之前寫過的：[[Javascript] Promise, generator, async與ES6](http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6)`
+想知道更多可以參考我之前寫過的：[[Javascript] Promise, generator, async與ES6](http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6)
 
 ### 其他framework
 介紹了一下nodejs除了`express`以外還有`sails.js`，那這套其實就跟`rails`很像，就像是php有`laravel`一樣，這三套其實我覺得概念都滿相同的。
