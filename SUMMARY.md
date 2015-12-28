@@ -11,5 +11,4 @@
    * [資管碩畢](case/case5.md)
    * [政大俄文畢業](case/case6.md)
    * [新鮮人工程師](case/case7.md)
-* [後記](sharing.md)
 
